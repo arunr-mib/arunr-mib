@@ -13,3 +13,7 @@ Covenant monitoring and financial spreading are both known time sinks for credit
 Each repo's README covers the "what." The case study linked above covers the "why" — the product decisions behind the build, not just the feature list.
 
 One more thing worth reading: **[what I didn't build, and why](./docs/decisions-i-didnt-build.md)** — two real examples of scoping a build down or pausing it, and the reasoning behind each call.
+
+### Credentials
+
+Agentic AI Product Management Certification + Claude Code Official Dev Cert. — Maven, Cohort 10, taught by Mahesh Yadav (Agentic AI Institute). CreditScout was the cohort capstone and won **Best Regulated Tech / Compliance AI** at the cohort's pitch day, recognized for "an orchestrator that investigates loan covenant breaches with cited tools and a learning loop, built for the audit and security expectations of banking."
