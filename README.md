@@ -1,4 +1,4 @@
-### Hi, I'm Arun — AI Product Manager
+### Hi, I'm Arun Rajendiran — AI Product Manager
 
 I spec products, but I also build them: agent orchestration, guardrails, data models, and the UI, end to end, so I can validate product decisions against working software instead of a deck. The three projects below are shipped, live, and each pressure-test a different product skill.
 
