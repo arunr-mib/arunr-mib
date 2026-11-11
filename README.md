@@ -17,3 +17,5 @@ One more thing worth reading: **[what I didn't build, and why](./docs/decisions-
 ### Credentials
 
 Agentic AI Product Management Certification + Claude Code Official Dev Cert. — Maven, Cohort 10, taught by Mahesh Yadav (Agentic AI Institute). CreditScout was the cohort capstone and won **Best Regulated Tech / Compliance AI** at the cohort's pitch day, recognized for "an orchestrator that investigates loan covenant breaches with cited tools and a learning loop, built for the audit and security expectations of banking."
+
+**Co-founder (Product), Helpie** — a community-care platform built with a co-founder. We paused it by mutual choice to build industry experience in AI product roles first, with the intent to return to our own startup ambitions together later.
